@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D780B130-2BB1-4ED3-9467-ABEC13F0D5A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HardwareWebApi/Connector/Conn.cs">
+    <Files>
+      <File FileName="HardwareWebApi/Controllers/ValuesController.cs" Line="16" Column="56" />
+      <File FileName="HardwareWebApi/Model/User.cs" Line="6" Column="8" />
+      <File FileName="HardwareWebApi/Connector/Conn.cs" Line="10" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HardwareWebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

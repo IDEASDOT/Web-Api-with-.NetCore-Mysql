@@ -1,0 +1,10 @@
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/bin/Debug/netcoreapp1.1/HardwareWebApi.deps.json
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/bin/Debug/netcoreapp1.1/HardwareWebApi.runtimeconfig.json
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/bin/Debug/netcoreapp1.1/HardwareWebApi.runtimeconfig.dev.json
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/bin/Debug/netcoreapp1.1/HardwareWebApi.dll
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/bin/Debug/netcoreapp1.1/HardwareWebApi.pdb
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/obj/Debug/netcoreapp1.1/HardwareWebApi.csprojResolveAssemblyReference.cache
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/obj/Debug/netcoreapp1.1/HardwareWebApi.csproj.CoreCompileInputs.cache
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/obj/Debug/netcoreapp1.1/HardwareWebApi.AssemblyInfo.cs
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/obj/Debug/netcoreapp1.1/HardwareWebApi.dll
+/Users/vb/Projects/HardwareWebApi/HardwareWebApi/obj/Debug/netcoreapp1.1/HardwareWebApi.pdb
